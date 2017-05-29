@@ -66,7 +66,7 @@ color: white;
 #gnav div.img{
 	display: table-cell;
 	vertical-align: middle;
-	background: ur1(..図２.png) no-repeat;
+	background: ur1(../図２.png) no-repeat;
 	width: 55px;
 	height: 46px;
 }
